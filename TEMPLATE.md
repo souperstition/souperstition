@@ -1,10 +1,10 @@
 # Hi, I'm Dani. ❤️
 
-Account age: **{{ ACCOUNT_AGE }}** years
-Pushed **{{ COMMITS }}** commits
-Submitted **{{ PULL_REQUESTS }}** pull requests
-Received **{{ STARS }}** stars
-Own **{{ REPOSITORIES }}** repositories
+## Activity
+- Pushed **{{ COMMITS }}** commits
+- Submitted **{{ PULL_REQUESTS }}** pull requests
+- Received **{{ STARS }}** stars
+- Own **{{ REPOSITORIES }}** repositories
 
 Top 4 most used languages:
 
