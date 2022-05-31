@@ -1,10 +1,11 @@
-# Hi, I'm Dani. ❤️
+![](https://github.com/souperstition/souperstition/blob/main/header.png)
+
 I'm a developer living in Belgium. I like to work on projects of all sorts, but my passion is e-learning and web development. As a former teacher, I love creating things that help enhance learning experiences.
 
 I'm also a musician! I teach voice lessons and play the flute in my spare time. 
 
 ## Activity
-- Pushed **110** commits
+- Pushed **111** commits
 - Submitted **1** pull requests
 - Received **0** stars
 - Own **13** repositories
