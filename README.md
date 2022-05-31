@@ -1,20 +1,10 @@
 # Hi, I'm Dani. ❤️
 
 Account age: **0** years
-
-Pushed **107** commits
-
-Opened **0** issues
-
+Pushed **108** commits
 Submitted **1** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
 Received **0** stars
-
 Own **13** repositories
-
-Contributed to **0** public repositories
 
 Top 4 most used languages:
 
