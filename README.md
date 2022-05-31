@@ -1,10 +1,10 @@
 # Hi, I'm Dani. ❤️
 
-Account age: **0** years
-Pushed **108** commits
-Submitted **1** pull requests
-Received **0** stars
-Own **13** repositories
+## Activity
+- Pushed **109** commits
+- Submitted **1** pull requests
+- Received **0** stars
+- Own **13** repositories
 
 Top 4 most used languages:
 
