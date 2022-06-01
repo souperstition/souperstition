@@ -1,4 +1,4 @@
-![https://github.com/souperstition/souperstition/blob/main/header.png](https://github.com/souperstition/souperstition/blob/main/header.svg)
+![https://github.com/souperstition/souperstition/blob/main/header.png](https://github.com/souperstition/souperstition/blob/main/header.png)
 
 
 I'm a developer living in Belgium. I like to work on projects of all sorts, but my passion is e-learning and web development. As a former teacher, I love creating things that help enhance learning experiences.
