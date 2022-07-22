@@ -6,9 +6,9 @@ I'm a developer living in Belgium. I like to work on projects of all sorts, but 
 I'm also a musician! I teach voice lessons and play the flute in my spare time. 
 
 ## Activity
-- Pushed **366** commits
+- Pushed **368** commits
 - Submitted **1** pull requests
-- Received **2** stars
+- Received **3** stars
 - Own **20** repositories
 
 Top 4 most used languages:
