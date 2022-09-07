@@ -8,7 +8,7 @@ I'm also a musician! I teach voice lessons and play the flute in my spare time.
 ## Activity
 - Pushed **442** commits
 - Submitted **1** pull requests
-- Received **2** stars
+- Received **3** stars
 - Own **20** repositories
 
 Top 4 most used languages:
